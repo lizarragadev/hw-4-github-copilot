@@ -1,4 +1,4 @@
-# 📊 Homework de Funciones Financieras - HW-6
+# 📊 Homework de Funciones Financieras - HW-4
 
 ## 🎯 Resumen del Ejercicio
 
